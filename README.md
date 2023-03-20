@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started 
 
 This is a simple rich text editor built with react.
 
