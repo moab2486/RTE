@@ -1,0 +1,68 @@
+.h1{
+    font-size: 30pt;
+    font-weight: bold;
+}
+
+.h2{
+    font-size: 24pt;
+    font-weight: bold;
+}
+
+.h3{
+    font-size: 18pt;
+    font-weight: bold;
+}
+
+.h5{
+    font-size: 12pt;
+    font-weight: bold;
+}
+
+.h6{
+    font-size: 6pt;
+    font-weight: bold;
+}
+
+.alignCenter{
+    text-align: center;
+}
+
+.alignJustify{
+    text-align: justify;
+}
+
+.alignLeft{
+    text-align: left;
+}
+
+.alignRight{
+    text-align: right;
+}
+
+.font-bold{
+    font-weight: bold;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+.line-through{
+    text-decoration: line-through;
+}
+
+.indent{
+    text-indent: 50px;
+}
+
+.orderedList{
+    list-style-type: circle;
+}
+
+.unorderedList{
+    list-style-type: upper-roman;
+}

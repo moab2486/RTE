@@ -1,0 +1,110 @@
+.flex-wrapper{
+  display: flex;
+}
+
+.justify-content-between{
+  justify-content: space-between;
+}
+
+.justify-content-around{
+  justify-content: space-around;
+}
+
+.w-100{
+  width: 100%;
+}
+
+.border{
+  border: 1px solid black;
+}
+
+.border-right{
+  border-right: 1px solid black;
+  padding: 1.2em;
+}
+
+.padding-top{
+  padding-top: 1.2em;
+}
+
+.padding{
+  padding: 0.5em;
+}
+
+ul li{
+  list-style: none;
+  margin-bottom: .5em;
+}
+
+.mt{
+  margin-top: 10px;
+}
+
+.button {
+  padding: 0.5em;
+}
+
+.selected-button {
+  border: 1px solid black;
+  border-radius: 5px; 
+  cursor: pointer;
+}
+
+.input {
+  height: 500px;
+  border: 1px solid black; 
+  border-radius: 5px; 
+  outline-color: aqua;
+  margin-top: 5px;
+  padding: 10px;
+}
+
+.dropdownList{
+  position: absolute;
+  max-height: 250px;
+  margin-top: .1em;
+  z-index: 999;
+  background-color: aliceblue; 
+  overflow-y: scroll;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.dropdownList-view{
+  width: 170px;
+}
+
+.card, #card{
+  background: white;
+  padding: 1.2em;
+}
+
+.dropdown-icon{
+  background: silver;
+  text-align: left;
+  width: 20%;
+}
+
+.uploadPreview{
+  width: 300px;
+}
+
+.form-group{
+  width: 100%;
+  margin-top: 1.5em;
+}
+
+.form-control{
+  width: 90%;
+  line-height: 30px;
+  padding: 0.5em;
+}
+
+.btn{
+  width: 100px;
+  height: 30px;
+}
+
+.right{
+  float: right;
+}
